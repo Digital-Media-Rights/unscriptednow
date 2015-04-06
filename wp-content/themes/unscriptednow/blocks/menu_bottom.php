@@ -34,9 +34,9 @@
         	<li><h3><?php echo __('Follow Us') ?></h3></li>
             <li>
             	<div class="social">
-                    <a href="http://www.twitter.com/asiancrush" class="social_link fir twitter" title="Follow Us on Twitter"><?php echo __('Twitter') ?></a>
-					<a href="http://www.facebook.com/asiancrushfilms" class="social_link fir facebook" title="Follow Us on Facebook"><?php echo __('Facebook') ?></a>
-					<a href="http://www.youtube.com/AsianMedia2010" class="social_link fir youtube" title="Follow Us on YouTube"><?php echo __('YouTube') ?></a>
+                    <a href="http://www.twitter.com" class="social_link fir twitter" title="Follow Us on Twitter"><?php echo __('Twitter') ?></a>
+					<a href="http://www.facebook.com" class="social_link fir facebook" title="Follow Us on Facebook"><?php echo __('Facebook') ?></a>
+					<a href="http://www.youtube.com" class="social_link fir youtube" title="Follow Us on YouTube"><?php echo __('YouTube') ?></a>
                 </div>
             </li>
         </ul>
