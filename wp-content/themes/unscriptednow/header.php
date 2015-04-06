@@ -29,7 +29,7 @@
 		
 		<?php /*Facebook Like Button*/
 			if ( is_singular( "movie" ) ) { ?>
-			<meta property="og:site_name" content="Asian Crush"/>
+			<meta property="og:site_name" content="Unscripted{Now}"/>
 			<meta property="og:url" content="<?php echo get_permalink(); ?>"/>
 			<meta property="og:title" content="<?php echo get_the_title(); ?>"/>	
 			<meta property="og:type" content="movie"/>	

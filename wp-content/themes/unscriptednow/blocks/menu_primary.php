@@ -59,8 +59,8 @@ function amr_is_inside_main_movie_genre( $main_movie_genre_cat ) {
         <li><a href="<?php echo get_bloginfo("url")."/"."movies"?>" class="<?php if (amr_is_inside_main_movie_genre(_CATE_ID_MOVIES)) echo "active"; ?>" id="n2"><?php echo __('MOVIES') ?></a></li>
         <li><a href="<?php echo get_bloginfo("url")."/"."anime"?>" class="<?php if (amr_is_inside_main_movie_genre(_CATE_ID_ANIME)) echo "active"; ?>" id="n3"><?php echo __('ANIME') ?></a></li>
         <li><a href="<?php echo get_bloginfo("url")."/"."sports"?>" class="<?php if (amr_is_inside_main_movie_genre(_CATE_ID_SPORTS)) echo "active"; ?>" id="n4"><?php echo __('SPORTS') ?></a></li>
-        <li><a href="<?php echo get_bloginfo("url")."/"."watch-asian-crush/"?>" <?php if (is_page_template("page-where-to-what.php") || is_page_template("page-where-to-what-canada.php")) echo 'class="active"'; ?> id="n5"><?php echo __('WATCH ASIAN CRUSH') ?></a></li>
+        <li><a href="<?php echo get_bloginfo("url")."/"."watch-unscripted/"?>" <?php if (is_page_template("page-where-to-what.php") || is_page_template("page-where-to-what-canada.php")) echo 'class="active"'; ?> id="n5"><?php echo __('WATCH UNSCRIPTED{NOW}') ?></a></li>
         <li><a href="<?php echo get_bloginfo("url")."/"."dvd-store/"?>" <?php if (is_page_template("page-dvd-store.php")) echo 'class="active"'; ?> id="n6"><?php echo __('DVD STORE') ?></a></li>
-        <li><a href="<?php echo get_bloginfo("url")."/"."about/"?>" <?php if (is_page("about-asian-crush")) echo 'class="active"'; ?> id="n7"><?php echo __('ABOUT') ?></a></li>
+        <li><a href="<?php echo get_bloginfo("url")."/"."about/"?>" <?php if (is_page("about")) echo 'class="active"'; ?> id="n7"><?php echo __('ABOUT') ?></a></li>
     </ul>
 </div> <!-- end nav -->

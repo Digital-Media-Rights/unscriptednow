@@ -6,15 +6,15 @@
             <li><a href="<?php echo site_url('movies') ?>"><?php echo __('Movies') ?></a></li>
             <li><a href="<?php echo site_url('anime') ?>"><?php echo __('Anime') ?></a></li>
             <li><a href="<?php echo site_url('sports') ?>"><?php echo __('Sports') ?></a></li>
-            <li><a href="<?php echo site_url('watch-asian-crush') ?>"><?php echo __('Watch Asian Crush') ?></a></li>
+            <li><a href="<?php echo site_url('watch-unscripted') ?>"><?php echo __('Watch UNSCRIPTED{NOW}') ?></a></li>
             <li><a href="<?php echo site_url('dvd-store') ?>"><?php echo __('DVD Store') ?></a></li>
             <li><a href="<?php echo site_url('about') ?>"><?php echo __('About') ?></a></li>
         </ul>
     </li>
     <li id="sn2">
     	<ul>
-        	<li><h3><?php echo __('Asian Crush') ?></h3></li>
-            <li><a href="<?php echo site_url('about-asian-crush') ?>"><?php echo __('About Asian Crush') ?></a></li>
+        	<li><h3><?php echo __('UNSCRIPTED{NOW}') ?></h3></li>
+            <li><a href="<?php echo site_url('about-unscripted') ?>"><?php echo __('About UNSCRIPTED{NOW}') ?></a></li>
             <li><a href="<?php echo site_url('jobs') ?>"><?php echo __('Jobs') ?></a></li>
             <li><a href="<?php echo site_url('distribution') ?>"><?php echo __('Distribution') ?></a></li>
             <li><a href="<?php echo site_url('faqs') ?>"><?php echo __('FAQ') ?></a></li>
